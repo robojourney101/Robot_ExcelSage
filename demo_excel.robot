@@ -21,7 +21,7 @@ Read And Write Excel With ExcelSage
 
     # 🔄 วนลูปทีละแถว (เริ่มจาก row 2)
     ${end_row}=          Evaluate    ${row_count} + 1
-    FOR    ${i}    IN RANGE    2     ${end_row} + 1
+    FOR    ${i}    IN RANGE    2     ${end_row}
         ${name}=       Get Cell Value    A${i}
         ${score}=      Get Cell Value    B${i}
         ${score}=      Convert To Number    ${score}
