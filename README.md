@@ -34,5 +34,6 @@ pip3 install robotframework-excelsage
 [Keywords ExcelSage](https://deekshith-poojary98.github.io/robotframework-excelsage/) 
 
 
-Credit: deekshith-poojary98
-ไลบรารี: [robotframework-excelsage](https://github.com/deekshith-poojary98/robotframework-excelsage)
+Credit: Deekshith Poojary.
+
+Github Library: [robotframework-excelsage](https://github.com/deekshith-poojary98/robotframework-excelsage)
